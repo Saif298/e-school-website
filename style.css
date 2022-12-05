@@ -1,0 +1,156 @@
+.container{
+    margin-bottom:60px;
+}
+a.navbar-brand img{
+    width:170px;
+}
+.navbar-nav a{
+    margin-left:20px;
+    font-size:18px;
+    font-weight:bold;
+}
+.btn{
+    background-color:rgb(11, 111, 241);
+    color:white;
+    font-weight:bold;
+    padding:10px 30px;
+    border-radius:40px;
+}
+.btn:hover{
+    background-color:#2a48f3;
+    color:white;
+}
+.banner  img{
+    max-width:100%;
+}
+.banner h1{
+    font-weight:bolder;
+}
+.banner h1 span{
+    color:#4b62e0;
+}
+p.txt-red{
+    color:red;
+    font-size:18px;
+}
+p.txt-muted{
+    color:gray;
+    font-size:18px;
+}
+.bg-green{
+    background-color:rgb(182, 208, 219);
+}
+.advantages .card{
+    text-align:center;
+    padding:30px 0;
+    border:none;
+    background-color:#d0dae6;
+    box-shadow:0 0 30px #c5c3c3;
+}
+.advantages .card:hover{
+    box-shadow:0px 10px 30px gray;
+}
+.advantages .card img{
+    margin:0 auto;
+    width:100px;
+    height:100px;
+}
+#courses h2,#testimonial h2{
+    text-align:center;
+    color:#040e6b;
+    font-weight:bold;
+}
+.hr-line{
+    width:150px;
+    height:10px;
+    background:repeating-linear-gradient(to right,#5968ee,#47e3ee);
+    margin:0 auto;
+    border-radius:30px;
+}
+#courses .row{
+     margin-top:50px;
+}
+#courses .card{
+    padding:13px;
+    border:none;
+    box-shadow:0 0 10px #adaaaa,0 5px  tomato;
+}
+#courses .card:hover{
+    outline:1px solid tomato;
+}
+#courses .card del{
+    color:red;
+}
+#courses .card ins{
+    text-decoration:none;
+    font-weight:bold;
+    color:green;
+}
+#courses .card .btn{
+    margin-left:10px;
+}
+#courses .card .card-footer img{
+    width:25px;
+}
+#courses .card .card-footer{
+    border-top:none;
+}
+#testimonial img{
+  width:110px;
+}
+#testimonial .row {
+  width:80%;
+  margin:auto;
+}
+#testimonial .row p{
+  margin:0px 0px 0px 20px;
+}
+footer{
+  background:rgb(20, 20, 48);
+  color:white;
+  padding:30px;
+  padding-bottom:0;
+}
+footer h1{
+  text-align:center;
+  margin-top:-28px;
+  
+}
+footer h1 a{
+  display:inline-block;
+  background:rgb(6, 6, 83);
+  color:white;
+  padding:16px 20px;
+  border-radius:50px;
+}
+footer ul{
+  padding:0;
+}
+footer ul li{
+  list-style-type:none;
+  color:white;
+}
+footer ul li a{
+  text-decoration:none;
+  color:rgb(179, 172, 172);
+}
+.registration,.social {
+  text-align:center;
+  margin-top:40px;
+}
+footer .btn{
+  margin-left:10px;
+}
+footer .social i{
+  color:white;
+  font-size:30px;
+  margin-left:10px;
+}
+footer .social i:hover{
+  color:gray;
+}
+footer p{
+  text-align: center;
+  color:rgb(95, 90, 90);
+  margin-top:30px;
+}
